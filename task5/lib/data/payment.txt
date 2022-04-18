@@ -1,0 +1,5 @@
+efectivo
+master
+nequi
+visa
+amex
